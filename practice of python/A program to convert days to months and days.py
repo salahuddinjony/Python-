@@ -1,0 +1,15 @@
+x=10
+y=5
+z=3
+m=5*x^3
+n=(x+y)+(y*z)-4*x*y
+p=(x*y)>=(5+x)-2
+q=((x>z)or(x+y)>=5)
+L=(x>y)and(x<y)
+x*=3
+print(m)
+print(n)
+print(p)
+print(q)
+print(L)
+print(x)
